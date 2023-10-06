@@ -10,3 +10,5 @@ dist
 .space
 .vercel
 .DS_Store
+
+.vscode/
